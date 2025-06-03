@@ -1,0 +1,6 @@
+gradio
+requests
+tiktoken
+chromadb
+sentence-transformers
+numpy
